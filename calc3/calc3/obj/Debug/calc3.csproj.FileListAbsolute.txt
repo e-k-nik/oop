@@ -1,0 +1,11 @@
+C:\Users\Karlova\source\repos\calc3\calc3\bin\Debug\calc3.exe.config
+C:\Users\Karlova\source\repos\calc3\calc3\bin\Debug\calc3.exe
+C:\Users\Karlova\source\repos\calc3\calc3\bin\Debug\calc3.pdb
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.Form1.resources
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.Properties.Resources.resources
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.csproj.GenerateResource.cache
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.csproj.CoreCompileInputs.cache
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.exe
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.pdb
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.AboutBox1.resources
+C:\Users\Karlova\source\repos\calc3\calc3\obj\Debug\calc3.csprojAssemblyReference.cache
